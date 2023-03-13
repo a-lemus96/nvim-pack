@@ -4,3 +4,6 @@
 [submodule "plugins/start/plugins/start/nerdtree-git-plugin"]
 	path = plugins/start/plugins/start/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/plugins/pear-tree"]
+	path = pack/plugins/pear-tree
+	url = https://github.com/tmsvg/pear-tree.git
