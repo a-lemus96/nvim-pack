@@ -4,3 +4,6 @@
 [submodule "plugins/start/pear-tree"]
 	path = plugins/start/pear-tree
 	url = https://github.com/tmsvg/pear-tree.git
+[submodule "plugins/start/copilot.vim"]
+	path = plugins/start/copilot.vim
+	url = https://github.com/github/copilot.vim
