@@ -7,3 +7,6 @@
 [submodule "plugins/start/copilot.vim"]
 	path = plugins/start/copilot.vim
 	url = https://github.com/github/copilot.vim
+[submodule "plugins/start/rainbow-delimiters"]
+	path = plugins/start/rainbow-delimiters
+	url = https://github.com/HiPhish/rainbow-delimiters.nvim.git
